@@ -6,10 +6,10 @@ The dataset used in this study is a sales transaction data. It is publicly avail
 https://datahack.analyticsvidhya.com/contest/black-friday/
 
 ## Algorithmes used
-⋅⋅* Linear Regression
-⋅⋅* Decision Tree
-⋅⋅* Random Forest
-⋅⋅* XGBoost
+* Linear Regression
+* Decision Tree
+* Random Forest
+* XGBoost
 
 I have used RMSE metric for evaluating the model.
 
